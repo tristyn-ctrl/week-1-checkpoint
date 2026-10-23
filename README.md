@@ -16,3 +16,6 @@ https://github.com/tristyn-ctrl/week-1-checkpoint.git
 | 4 | Added an About me section | Add about me section | main |
 | 5 | Added a list of things I like | Add list of things I like | main |
 | 6 | Added my goals | Add my goals section | main |
+| 7 | Added a link to a site I like | Add link to site i like | main |
+| 8 | Added a picture | Added picture | main |
+| 9 | Added live site link to README | Add live site link to README | main |
