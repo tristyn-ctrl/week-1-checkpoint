@@ -1,5 +1,6 @@
 # week-1-checkpoint
 ## My setup
+https://github.com/tristyn-ctrl/week-1-checkpoint.git
 - Operating system: Windows
 - Editor: VS Code
 - Git version: 2.56.0.windows.2
